@@ -1,0 +1,18 @@
+
+/* ボタン */
+.bg_test3 {
+  position: relative; /* 今の位置を基準 */
+  color:  #fff;                       /* 文字色指定 */
+  background-color: #00BCD4;          /* 背景色指定 */
+  display:  block;                    /* ブロック要素にする */
+  width:  300px;                      /* 幅指定 */
+  padding:  15px;                     /* 余白指定 */
+  font-size:  20px;                   /* 文字サイズ指定 */
+  text-decoration:  none;             /* デフォルトCSS打ち消し */
+  border-radius:  5px;                /* 角丸指定 */
+  box-shadow: 0 4px 0 0px #028d9e;    /* 影指定 */
+  float:  center;                  /* 位置指定 */
+  top: 1500px;                     /* 位置指定 */
+  margin: auto;
+    text-align: center;
+}
