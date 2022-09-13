@@ -1,3 +1,105 @@
+/* ここには、ボタン */
+
+/* 吹き出し1-1 */
+.balloon1 {
+  position: relative;
+  display: inline-block;
+  margin: 1.5em 0;
+  padding: 0 5px;
+  width: 160px;
+  height: 140px;
+  line-height: 90px;
+  text-align: center;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: bold;
+  background: #70a6ff;
+  border-radius: 50%;
+  box-sizing: border-box;
+  top: -1800px;                     /* 位置指定 */
+  left: 200px;                     /* 位置指定 */
+}
+/* 吹き出し1-2 */
+.balloon1:before {
+  content: "";
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  margin-left: -15px;
+  border: 15px solid transparent;
+  border-top: 15px solid #70a6ff;
+  z-index: 0;
+}
+
+/* 吹き出し2-1 */
+.balloon2 {
+  position: relative;
+  display: inline-block;
+  margin: 1.5em 0;
+  padding: 0 5px;
+  width: 160px;
+  height: 140px;
+  line-height: 90px;
+  text-align: center;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: bold;
+  background: #70a6ff;
+  border-radius: 50%;
+  box-sizing: border-box;
+  top: -1800px;                     /* 位置指定 */
+  left: 350px;                     /* 位置指定 */
+}
+/* 吹き出し2-2 */
+.balloon2:before {
+  content: "";
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  margin-left: -15px;
+  border: 15px solid transparent;
+  border-top: 15px solid #70a6ff;
+  z-index: 0;
+}
+
+/* 吹き出し3-1 */
+.balloon3 {
+  position: relative;
+  display: inline-block;
+  margin: 1.5em 0;
+  padding: 0 5px;
+  width: 160px;
+  height: 140px;
+  line-height: 90px;
+  text-align: center;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: bold;
+  background: #70a6ff;
+  border-radius: 50%;
+  box-sizing: border-box;
+  top: -1800px;                     /* 位置指定 */
+  left: 500px;                     /* 位置指定 */
+}
+/* 吹き出し3-2 */
+.balloon3:before {
+  content: "";
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  margin-left: -15px;
+  border: 15px solid transparent;
+  border-top: 15px solid #70a6ff;
+  z-index: 0;
+}
+
+
+
+
+
+
+
+
 
 /* ボタン */
 .bg_test3 {
@@ -12,7 +114,7 @@
   border-radius:  5px;                /* 角丸指定 */
   box-shadow: 0 4px 0 0px #028d9e;    /* 影指定 */
   float:  center;                  /* 位置指定 */
-  top: 1500px;                     /* 位置指定 */
+  top: -1500px;                     /* 位置指定 */
   margin: auto;
     text-align: center;
 }

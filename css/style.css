@@ -1,9 +1,21 @@
-/* 画像1枚目 左*/
+/* ここには、画像とテキスト */
+
+
+/* 青い背景画像と学習する男の子はリンク*/
+/* 上が背景ね */
 .relative {
   position: relative;
   top: 200px;
   text-align: center;
+} 
+/* 学習する男の子画像と青い背景はリンク */
+.image1 {
+  position: absolute;
+  right: 0px;
+  bottom: 200px;
 }
+
+/* 半円黒 */
 .circle {
   position: relative;
   width: 700px;
@@ -13,34 +25,64 @@
   bottom: 200px;
   left: 0x; /* 左から20px */
 }
-.image1 {
-  position: absolute;
-  right: 0px;
-  bottom: 200px;
-}
 
-/* 画像2枚目 中央*/
+/* 学習する女の子*/
 .image2 {
-  position: absolute;
-  top: 1500px;
+  position: relative;
+  top: 2000px;
   text-align: left;
 }
 
-/* 画像3枚目 右*/
+/* 学習する集団*/
 .image3 {
   position: relative;
-  top: 1500px;
-  text-align: right;
+  top: 400px;
+  text-align: center;
 }
 
 
-.box {
-  color: #fdfdfd;
-  font-size: 30px;
-  height: 1800px;
+
+
+
+/* キーボード背景画像と青い背景2はリンク*/
+/* 上が背景ね */
+.intermediate {
   position: relative;
+  top: -300px;
+  text-align: center;
+  left: -630px;
+} 
+/* PC画像背景と青い背景2はリンク*/
+.image4 {
+  position: absolute;
+  top: -100px;
+  text-align: center;
 }
 
+/* こんな悩みはありませんか? */
+.box1 {
+  color: #000000;
+  font-size: 50px;
+  height: 500px;
+  left: 400px;
+  top: 1000px;
+  position: absolute;
+  text-align: center;
+}
+
+
+/* 完全転職者向けプログラミングスクール */
+.box2 {
+  color: #ffffff;
+  font-size: 50px;
+  height: 500px;
+  left: 100px;
+  top: 500px;
+  position: absolute;
+  text-align: center;
+}
+
+/* これはPタグの修正で使用している */
 p {
   position: absolute;
   top: 50%;
