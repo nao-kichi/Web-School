@@ -29,22 +29,18 @@
 /* 学習する女の子*/
 .image2 {
   position: relative;
-  top: 2000px;
+  top: 3000px;
   text-align: left;
 }
 
-/* 学習する集団*/
+/* 学習する人たち*/
 .image3 {
   position: relative;
   top: 400px;
   text-align: center;
 }
 
-
-
-
-
-/* キーボード背景画像と青い背景2はリンク*/
+/* PC画像と青い背景2はリンク*/
 /* 上が背景ね */
 .intermediate {
   position: relative;
@@ -59,32 +55,24 @@
   text-align: center;
 }
 
-/* こんな悩みはありませんか? */
-.box1 {
-  color: #000000;
-  font-size: 50px;
-  height: 500px;
-  left: 400px;
-  top: 1000px;
-  position: absolute;
+/* 黒い背景*/
+.image5 {
+  position: relative;
+  top:  700px;
   text-align: center;
 }
 
-
-/* 完全転職者向けプログラミングスクール */
-.box2 {
-  color: #ffffff;
-  font-size: 50px;
-  height: 500px;
-  left: 100px;
-  top: 500px;
-  position: absolute;
+/* 青い背景*/
+.image6 {
+  position: relative;
+  top:  900px;
   text-align: center;
 }
 
-/* これはPタグの修正で使用している */
-p {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%) /* ズレを補修 */
+/* 黒い背景*/
+.image7 {
+  position: relative;
+  top:  2000px;
+  text-align: center;
 }
+

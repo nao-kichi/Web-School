@@ -1,0 +1,86 @@
+/* こんな悩みはありませんか? */
+.box1 {
+  color: #000000;
+  font-size: 50px;
+  height: 500px;
+  left: 400px;
+  top: 1000px;
+  position: absolute;
+  text-align: center;
+}
+
+
+/* 完全転職者向けプログラミングスクール */
+.box2 {
+  color: #ffffff;
+  font-size: 50px;
+  height: 500px;
+  left: 100px;
+  top: 500px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 提供サービス */
+.box3 {
+  color: #ffffff;
+  font-size: 50px;
+  height: 500px;
+  left: 500px;
+  top: 2700px;
+  position: absolute;
+  text-align: center;
+}
+
+/* お気軽にご相談ください(1分で完了) */
+.box4 {
+  color: #000000;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 3350px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 特徴 */
+.box5 {
+  color: #ffffff;
+  font-size: 50px;
+  height: 500px;
+  left: 600px;
+  top: 3700px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 検証ポイント */
+.box6 {
+  color: #000000;
+  font-size: 50px;
+  height: 500px;
+  left: 500px;
+  top: 4500px;
+  position: absolute;
+  text-align: center;
+}
+
+/* ライトアカデミーのPDCA */
+.box7 {
+  color: #ffffff;
+  font-size: 50px;
+  height: 500px;
+  left: 400px;
+  top: 5800px;
+  position: absolute;
+  text-align: center;
+}
+
+
+
+/* これはPタグの修正で使用している */
+p {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) /* ズレを補修 */
+}
