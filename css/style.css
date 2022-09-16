@@ -76,3 +76,23 @@
   text-align: center;
 }
 
+/* 青い背景*/
+.image8 {
+  position: relative;
+  top:  2000px;
+  text-align: center;
+}
+
+/* 黒い背景*/
+.image9 {
+  position: relative;
+  top:  3000px;
+  text-align: center;
+}
+
+/* 黒い背景*/
+.image10 {
+  position: relative;
+  top:  3000px;
+  text-align: center;
+}

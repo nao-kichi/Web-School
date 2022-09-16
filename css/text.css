@@ -76,6 +76,38 @@
   text-align: center;
 }
 
+/* プロモーション開始までのステップ */
+.box8 {
+  color: #000000;
+  font-size: 50px;
+  height: 500px;
+  left: 300px;
+  top: 7000px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 費用 */
+.box9 {
+  color: #ffffff;
+  font-size: 50px;
+  height: 500px;
+  left: 600px;
+  top: 8000px;
+  position: absolute;
+  text-align: center;
+}
+
+/* お気軽にご相談ください */
+.box10 {
+  color: #ffffff;
+  font-size: 40px;
+  height: 500px;
+  left: 100px;
+  top: 8500px;
+  position: absolute;
+  text-align: center;
+}
 
 
 /* これはPタグの修正で使用している */
