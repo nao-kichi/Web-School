@@ -90,9 +90,23 @@
   text-align: center;
 }
 
-/* 黒い背景*/
+/* 青い背景*/
 .image10 {
   position: relative;
   top:  3000px;
+  text-align: center;
+}
+
+/* 青い背景*/
+.image11 {
+  position: relative;
+  top:  3800px;
+  text-align: center;
+}
+
+/* 灰色背景*/
+.image12 {
+  position: relative;
+  top:  3800px;
   text-align: center;
 }

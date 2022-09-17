@@ -109,6 +109,27 @@
   text-align: center;
 }
 
+/* Q&A */
+.box11 {
+  color: #000000;
+  font-size: 50px;
+  height: 500px;
+  left: 600px;
+  top: 8700px;
+  position: absolute;
+  text-align: center;
+}
+
+/* お気軽にご相談ください */
+.box12 {
+  color: #ffffff;
+  font-size: 40px;
+  height: 500px;
+  left: 100px;
+  top: 9500px;
+  position: absolute;
+  text-align: center;
+}
 
 /* これはPタグの修正で使用している */
 p {
