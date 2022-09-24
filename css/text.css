@@ -198,7 +198,7 @@
   text-align: center;
 }
 
-/* 郵便番号 */
+/* 会社名 */
 .box19 {
   color: #ffffff;
   font-size: 30px;
@@ -209,7 +209,18 @@
   text-align: center;
 }
 
-/* 会社名 */
+/* 郵便番号 */
+.box20 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 10100px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 住所 */
 .box20 {
   color: #ffffff;
   font-size: 30px;
@@ -221,17 +232,6 @@
 }
 
 /* 電話番号 */
-.box20 {
-  color: #ffffff;
-  font-size: 30px;
-  height: 500px;
-  left: 100px;
-  top: 10100px;
-  position: absolute;
-  text-align: center;
-}
-
-/* 最後のテキスト */
 .box21 {
   color: #ffffff;
   font-size: 30px;
@@ -241,6 +241,30 @@
   position: absolute;
   text-align: center;
 }
+
+/* 最後のテキスト */
+.box22 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 10300px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 月額制サブスクサービス */
+.box23 {
+  color: #ffffff;
+  font-size: 40px;
+  height: 500px;
+  left: 500px;
+  top: 2100px;
+  position: absolute;
+  text-align: center;
+}
+
+
 
 
 

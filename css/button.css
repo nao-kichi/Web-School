@@ -16,7 +16,7 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5450px;                     /* 位置指定 */
+  top: -5550px;                     /* 位置指定 */
   left: -200px;                     /* 位置指定 */
 }
 /* プログラミング学習をしたい */
@@ -47,7 +47,7 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5700px;                     /* 位置指定 */
+  top: -5800px;                     /* 位置指定 */
   left: 300px;                     /* 位置指定 */
 }
 /* アプリを作成したい */
@@ -78,7 +78,7 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5700px;                     /* 位置指定 */
+  top: -5800px;                     /* 位置指定 */
   left: 400px;                     /* 位置指定 */
 }
 /* HPの運用をしたい */
@@ -105,7 +105,7 @@ a.btn--orange {
   position: relative;
   background-color: #70a6ff;
   left: 450px;
-  top: -3100px;
+  top: -3300px;
 }
 .btn--orange:hover,
 a.btn--orange:hover {
@@ -121,7 +121,7 @@ a.btn--oran {
   position: relative;
   background-color: #70a6ff;
   left: 500px;
-  top: -3100px;
+  top: -3300px;
 }
 .btn--oran:hover,
 a.btn--oran:hover {
@@ -137,7 +137,7 @@ a.btn--orange2 {
   position: relative;
   background-color: #70a6ff;
   left: 20px;
-  top: 250px;
+  top: 50px;
 }
 .btn--orange2:hover,
 a.btn--orange2:hover {
@@ -153,7 +153,7 @@ a.btn--oran2 {
   position: relative;
   background-color: #70a6ff;
   left: 50px;
-  top: 250px;
+  top: 50px;
 }
 .btn--oran2:hover,
 a.btn--oran2:hover {
@@ -169,7 +169,7 @@ a.btn--orange3 {
   position: relative;
   background-color: #70a6ff;
   left: 550px;
-  top: 1900px;
+  top: 1700px;
 }
 .btn--orange3:hover,
 a.btn--orange3:hover {
@@ -185,7 +185,7 @@ a.btn--oran3 {
   position: relative;
   background-color: #70a6ff;
   left: 650px;
-  top: 1900px;
+  top: 1700px;
 }
 .btn--oran3:hover,
 a.btn--oran3:hover {
@@ -201,7 +201,7 @@ a.btn--orange4 {
   position: relative;
   background-color: #70a6ff;
   left: 50px;
-  top: 2900px;
+  top: 2700px;
 }
 .btn--orange4:hover,
 a.btn--orange4:hover {
@@ -217,7 +217,7 @@ a.btn--oran4 {
   position: relative;
   background-color: #70a6ff;
   left: 100px;
-  top: 2900px;
+  top: 2700px;
 }
 .btn--oran4:hover,
 a.btn--oran4:hover {
