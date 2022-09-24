@@ -16,7 +16,7 @@
   font-size: 50px;
   height: 500px;
   left: 100px;
-  top: 500px;
+  top: 450px;
   position: absolute;
   text-align: center;
 }
@@ -42,6 +42,7 @@
   position: absolute;
   text-align: center;
 }
+
 
 /* 特徴 */
 .box5 {
@@ -72,6 +73,17 @@
   height: 500px;
   left: 400px;
   top: 5800px;
+  position: absolute;
+  text-align: center;
+}
+
+/* お気軽にご相談ください 順番間違えた*/
+.box13 {
+  color: #ffffff;
+  font-size: 40px;
+  height: 500px;
+  left: 100px;
+  top: 6650px;
   position: absolute;
   text-align: center;
 }
@@ -130,6 +142,52 @@
   position: absolute;
   text-align: center;
 }
+
+/* テキスト 提供サービスの下*/
+.box14 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 200px;
+  top: 2900px;
+  position: absolute;
+  text-align: center;
+}
+
+/* 現代においての必須知識を学習し、未来永劫、輝ける人物を輩出します。 */
+.box15 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 650px;
+  position: absolute;
+  text-align: center;
+}
+
+/* ライト */
+.box16 {
+  color: #ffffff;
+  font-size: 40px;
+  height: 500px;
+  left: 100px;
+  top: 9700px;
+  position: absolute;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* これはPタグの修正で使用している */
 p {

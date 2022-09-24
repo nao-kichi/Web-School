@@ -16,7 +16,7 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5400px;                     /* 位置指定 */
+  top: -5300px;                     /* 位置指定 */
   left: 300px;                     /* 位置指定 */
 }
 /* 吹き出し1-2 */
@@ -47,7 +47,7 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5400px;                     /* 位置指定 */
+  top: -5300px;                     /* 位置指定 */
   left: 450px;                     /* 位置指定 */
 }
 /* 吹き出し2-2 */
@@ -78,7 +78,7 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5400px;                     /* 位置指定 */
+  top: -5300px;                     /* 位置指定 */
   left: 600px;                     /* 位置指定 */
 }
 /* 吹き出し3-2 */
@@ -107,7 +107,7 @@
   border-radius:  5px;                /* 角丸指定 */
   box-shadow: 0 4px 0 0px #028d9e;    /* 影指定 */
   float:  center;                  /* 位置指定 */
-  top: -5000px;                     /* 位置指定 */
+  top: 5000px;                     /* 位置指定 */
   margin: auto;
     text-align: center;
 }

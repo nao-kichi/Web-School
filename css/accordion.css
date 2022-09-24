@@ -3,7 +3,7 @@
 /*ベース*/
 .accordion {
   position: relative;
-  top: 3000px;
+  top: 2200px;
   text-align: center;
 }
 
@@ -14,7 +14,7 @@
 	padding: 1em;
 	display: block;
 	color: #fff;
-	background:#019ac6;
+	background:#000000;
 }
 .Label::before{		/*タイトル横の矢印*/
 	content:"";
