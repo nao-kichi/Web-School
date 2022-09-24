@@ -1,6 +1,6 @@
 /* ここには、ボタン */
 
-/* 吹き出し1-1 */
+/* プログラミング学習をしたい */
 .balloon1 {
   position: relative;
   display: inline-block;
@@ -16,10 +16,10 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5300px;                     /* 位置指定 */
-  left: 300px;                     /* 位置指定 */
+  top: -5450px;                     /* 位置指定 */
+  left: -200px;                     /* 位置指定 */
 }
-/* 吹き出し1-2 */
+/* プログラミング学習をしたい */
 .balloon1:before {
   content: "";
   position: absolute;
@@ -31,7 +31,7 @@
   z-index: 0;
 }
 
-/* 吹き出し2-1 */
+/* アプリを作成したい */
 .balloon2 {
   position: relative;
   display: inline-block;
@@ -47,10 +47,10 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5300px;                     /* 位置指定 */
-  left: 450px;                     /* 位置指定 */
+  top: -5700px;                     /* 位置指定 */
+  left: 300px;                     /* 位置指定 */
 }
-/* 吹き出し2-2 */
+/* アプリを作成したい */
 .balloon2:before {
   content: "";
   position: absolute;
@@ -62,7 +62,7 @@
   z-index: 0;
 }
 
-/* 吹き出し3-1 */
+/* HPの運用をしたい */
 .balloon3 {
   position: relative;
   display: inline-block;
@@ -78,10 +78,10 @@
   background: #70a6ff;
   border-radius: 50%;
   box-sizing: border-box;
-  top: -5300px;                     /* 位置指定 */
-  left: 600px;                     /* 位置指定 */
+  top: -5700px;                     /* 位置指定 */
+  left: 400px;                     /* 位置指定 */
 }
-/* 吹き出し3-2 */
+/* HPの運用をしたい */
 .balloon3:before {
   content: "";
   position: absolute;
@@ -92,6 +92,155 @@
   border-top: 15px solid #70a6ff;
   z-index: 0;
 }
+
+
+
+
+
+/* 資料ダウンロード　ボタン1 */
+.btn--orange,
+a.btn--orange {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 450px;
+  top: -3100px;
+}
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* 資料ダウンロード　ボタン1 */
+.btn--oran,
+a.btn--oran {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 500px;
+  top: -3100px;
+}
+.btn--oran:hover,
+a.btn--oran:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* 資料ダウンロード　ボタン2 */
+.btn--orange2,
+a.btn--orange2 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 20px;
+  top: 250px;
+}
+.btn--orange2:hover,
+a.btn--orange2:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* お問合せ　ボタン2 */
+.btn--oran2,
+a.btn--oran2 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 50px;
+  top: 250px;
+}
+.btn--oran2:hover,
+a.btn--oran2:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* 資料ダウンロード　ボタン3 */
+.btn--orange3,
+a.btn--orange3 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 550px;
+  top: 1900px;
+}
+.btn--orange3:hover,
+a.btn--orange3:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* お問合せ　ボタン3 */
+.btn--oran3,
+a.btn--oran3 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 650px;
+  top: 1900px;
+}
+.btn--oran3:hover,
+a.btn--oran3:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* 資料ダウンロード　ボタン4 */
+.btn--orange4,
+a.btn--orange4 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 50px;
+  top: 2900px;
+}
+.btn--orange4:hover,
+a.btn--orange4:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+/* お問合せ　ボタン4 */
+.btn--oran4,
+a.btn--oran4 {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  position: relative;
+  background-color: #70a6ff;
+  left: 100px;
+  top: 2900px;
+}
+.btn--oran4:hover,
+a.btn--oran4:hover {
+  color: rgb(0, 0, 0);
+  background: #70a6ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* ボタン */

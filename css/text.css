@@ -176,13 +176,71 @@
   text-align: center;
 }
 
+/* アカデミー */
+.box17 {
+  color: #ffffff;
+  font-size: 25px;
+  height: 500px;
+  left: 100px;
+  top: 9800px;
+  position: absolute;
+  text-align: center;
+}
 
+/* アカデミー */
+.box18 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 9900px;
+  position: absolute;
+  text-align: center;
+}
 
+/* 郵便番号 */
+.box19 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 10000px;
+  position: absolute;
+  text-align: center;
+}
 
+/* 会社名 */
+.box20 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 10100px;
+  position: absolute;
+  text-align: center;
+}
 
+/* 電話番号 */
+.box20 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 10100px;
+  position: absolute;
+  text-align: center;
+}
 
-
-
+/* 最後のテキスト */
+.box21 {
+  color: #ffffff;
+  font-size: 30px;
+  height: 500px;
+  left: 100px;
+  top: 10200px;
+  position: absolute;
+  text-align: center;
+}
 
 
 
