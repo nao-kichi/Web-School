@@ -1,5 +1,7 @@
 /* ここには、ボタン */
 
+
+
 /* プログラミング学習をしたい */
 .balloon1 {
   position: relative;
@@ -113,7 +115,7 @@ a.btn--orange:hover {
   background: #70a6ff;
 }
 
-/* 資料ダウンロード　ボタン1 */
+/* お問合せ　ボタン1 */
 .btn--oran,
 a.btn--oran {
   font-size: 35px;
@@ -168,8 +170,8 @@ a.btn--orange3 {
   color: rgb(0, 0, 0);
   position: relative;
   background-color: #70a6ff;
-  left: 550px;
-  top: 1700px;
+  left: -500px;
+  top: 1870px;
 }
 .btn--orange3:hover,
 a.btn--orange3:hover {
@@ -184,7 +186,7 @@ a.btn--oran3 {
   color: rgb(0, 0, 0);
   position: relative;
   background-color: #70a6ff;
-  left: 650px;
+  left: 800px;
   top: 1700px;
 }
 .btn--oran3:hover,
